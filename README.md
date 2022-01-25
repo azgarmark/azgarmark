@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Azgar
+- 👀 I’m interested in C++
+- 🌱 I’m currently learning Java programming
+- 💞️ I’m looking to collaborate on helpful projects
+- 📫 azgarmark@gmail.com
